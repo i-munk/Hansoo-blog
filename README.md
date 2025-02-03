@@ -44,7 +44,7 @@ sh@Sui-MacBookPro 임한수 % vim test.txt
 10. 규칙:앞의 숫자 + x*2 숫자:63
 
 
-
+-ㅓ라앙ㄹ
 
 
 
