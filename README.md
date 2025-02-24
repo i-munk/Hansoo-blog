@@ -1563,5 +1563,33 @@ SEO는 이 과정을 이해하고, 웹사이트가 검색 결과에서 상위에
     2. 검색 순위 향상: 적절한 태그와 키워드 최적화는 검색 결과에서 상위에 노출될 가능성을 높임
     3. 사용자 경험 개선: 잘 작성된 SEO태그는 사용자가 검색결과를 통해 페이지의 내용을 이해하는데 도움을 줌
  
+
+ 
 2/19
 JavaScript 
+
+
+- DOM (Document Object Model) 문서 객체 모델
+
+HTML(웹페이지)를 JS에서 조작할 수 있도록 만든 구조
+
+- DOM의 기본 개념
+1.  DOM의 트리 구조
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <h1 id="title">Hello, World!</h1>
+    <button>Click Me</button>
+</body>
+</html>
+
+Document
+ ├── html
+ │   ├── head
+ │   │   └── title (My Page)
+ │   ├── body
+ │   │   ├── h1#title (Hello, World!)
+ │   │   └── button (Click Me)
